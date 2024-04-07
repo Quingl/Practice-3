@@ -1,0 +1,3 @@
+﻿  Prakt3.cpp
+C:\Users\11\source\repos\Prakt3\Prakt3.cpp(75,31): error C2276:  &: недопустимая операция с выражением привязанной функции-члена
+C:\Users\11\source\repos\Prakt3\Prakt3.cpp(133,36): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
